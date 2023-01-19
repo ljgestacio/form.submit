@@ -1,0 +1,29 @@
+#t1 {
+    color: rgb(255, 255, 255);
+}
+#p1 {
+    color: rgb(255, 255, 255);
+}
+#t2 {
+    color: rgb(255, 255, 255);
+}
+#i1 {
+    background-color: rgba(253, 253, 253, 0.205);
+    border-style: hidden;
+    margin-top: auto;
+}
+#i2 {
+    background-color: rgba(253, 253, 253, 0.199);
+    border-style: hidden;
+    margin-top: auto;
+}
+#r1 {
+    background-color: rgba(253, 253, 253, 0.199);
+    border-style: hidden;
+    margin-top: auto;
+}
+#m1 {
+    background-color: rgba(253, 253, 253, 0.199);
+    border-style: hidden;
+    margin-top: auto;
+}
